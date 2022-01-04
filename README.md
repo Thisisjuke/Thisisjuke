@@ -2,9 +2,16 @@
 
 French Developer in Paris.
 <br />
-<b>Fullstack Developer</b> proefficient in JavaScript :  NodeJS / VueJS / React etc.
 <br />
-Building REST API for new JS front-end framework. 
+<b>Javascript Expert Developer</b> proefficient in modern stacks like :  NextJS / React / VueJS etc.
+<br />
+<br />
+At the moment : testing new JS frameworks like Remix.run or Hydrogen !
+
+- 💕 [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
+- 😎 [React-query](https://github.com/tannerlinsley/react-query)
+- ⁉️ [Remix.run](https://github.com/remix-run/remix)
+- 🛍️ [Hhydrogen](https://github.com/Shopify/hydrogen)
 
 #### Feel free to check my repositories and contact me !
 
