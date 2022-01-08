@@ -10,8 +10,8 @@ At the moment : testing new JS frameworks like Remix.run or Hydrogen !
 
 - 💕 [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 - 😎 [React-query](https://github.com/tannerlinsley/react-query)
+- 🛍️ [Hydrogen](https://github.com/Shopify/hydrogen)
 - ⁉️ [Remix.run](https://github.com/remix-run/remix)
-- 🛍️ [Hhydrogen](https://github.com/Shopify/hydrogen)
 
 #### Feel free to check my repositories and contact me !
 
