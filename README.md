@@ -3,15 +3,19 @@
 French Developer in Paris.
 <br />
 <br />
-<b>Javascript Expert Developer</b> proefficient in modern stacks like :  NextJS / React / VueJS etc.
+<b>Javascript Expert Developer</b> proefficient in modern stacks like : TypeScript / NextJS / React / TailwindCSS / GQL / etc.
 <br />
 <br />
-At the moment : testing new JS frameworks like Remix.run or Hydrogen !
+At the moment : looking at `vanilla-extract` & NextJS 13 !
 
 - 💕 [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
-- 😎 [React-query](https://github.com/tannerlinsley/react-query)
-- 🛍️ [Hydrogen](https://github.com/Shopify/hydrogen)
-- ⁉️ [Remix.run](https://github.com/remix-run/remix)
+- 😎 [TanStack Query](https://github.com/TanStack/query)
+- 🔳 [React StoryBlok](https://www.storyblok.com/)
+- 🔡 [Strapi](https://strapi.io/)
+- 🕵‍♂ Tech watch:
+<br> 📍 NextJS
+<br> 📍 React / ReactServerComponents
+<br> 📍 CSS tokens / Design Tokens 
 
 #### Feel free to check my repositories and contact me !
 
