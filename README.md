@@ -10,6 +10,7 @@ At the moment : PandaCSS and Shadcn-ui !
 
 - 💕 [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 - 😎 [TanStack Query](https://github.com/TanStack/query)
+- 🗃️ [Shadcn-UI](https://github.com/shadcn/ui)
 - 🔳 [React StoryBlok](https://www.storyblok.com/)
 - 🔡 [Strapi](https://strapi.io/)
 - 🕵‍♂ Tech watch:
