@@ -6,7 +6,7 @@ French Developer in Paris.
 <b>Javascript Expert Developer</b> proefficient in modern stacks like : TypeScript / NextJS / React / TailwindCSS / GQL / etc.
 <br />
 <br />
-At the moment : looking at `vanilla-extract` & NextJS 13 !
+At the moment : PandaCSS and Shadc-ui !
 
 - 💕 [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 - 😎 [TanStack Query](https://github.com/TanStack/query)
