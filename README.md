@@ -12,11 +12,12 @@ At the moment : PandaCSS and Shadcn-ui !
 - 😎 [TanStack Query](https://github.com/TanStack/query)
 - 🗃️ [Shadcn-UI](https://github.com/shadcn/ui)
 - 🔳 [React StoryBlok](https://www.storyblok.com/)
-- 🔡 [Strapi](https://strapi.io/)
+- 🔡 [PayloadCMS](https://github.com/payloadcms/payload)
+- 📁 [NX Monorepo](https://nx.dev/)
 - 🕵‍♂ Tech watch:
 <br> 📍 NextJS
-<br> 📍 React / ReactServerComponents
-<br> 📍 CSS tokens / Design Tokens 
+<br> 📍 React / React Server Components
+<br> 📍 Design Systems
 
 #### Feel free to check my repositories and contact me !
 
